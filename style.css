@@ -18,9 +18,11 @@ body {
 }
 
 @media (max-width:768px) {
+
   .main { 
     text-align: center;
   }
+
 }
 .main-page {
   display: block;
@@ -44,7 +46,7 @@ h3 {
   list-style: none;
 }
 input,
-button{
+button {
   outline: none;
 }
 button {
